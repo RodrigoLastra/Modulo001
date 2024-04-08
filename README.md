@@ -19,3 +19,13 @@ ex03 funciona bien
 ex04 funciona bien 
 ex05 funciona bien 
 ex06 funciona bien 
+
+agonzales
+
+ex00 ok
+ex01 ok
+ex02 ok
+ex03 ok
+ex04 ok
+ex05 ok
+ex06 ok
